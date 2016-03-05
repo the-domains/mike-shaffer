@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mike Shaffer]]></title>
         <description><![CDATA[Mike Shaffer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mike-shaffer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:22:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 01:22:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mike-shaffer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A dinner I made a while back]]></title>
             <description><![CDATA[<article><h1>A dinner I made a while back</h1><p>I'm Mike, a dad and L&D pro who designs training solutions for a Fortune 25 company. This is where I share awesome stuff that I create and learn about.</p><img src="http://38.media.tumblr.com/avatar_13c7a05cee78_128.png"></article>]]></description>
             <link>http://www.mikeshaffer.me/</link>
             <guid isPermaLink="false">0a76829c-7b56-47d7-9282-ba3dbf878e74</guid>
-            <pubDate>Sat, 05 Mar 2016 01:20:31 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 01:21:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
