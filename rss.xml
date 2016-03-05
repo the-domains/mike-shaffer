@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mike Shaffer]]></title>
+        <description><![CDATA[Mike Shaffer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 01:22:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A dinner I made a while back]]></title>
+            <description><![CDATA[<article><h1>A dinner I made a while back</h1><p>I'm Mike, a dad and L&D pro who designs training solutions for a Fortune 25 company. This is where I share awesome stuff that I create and learn about.</p><img src="http://38.media.tumblr.com/avatar_13c7a05cee78_128.png"></article>]]></description>
+            <link>http://www.mikeshaffer.me/</link>
+            <guid isPermaLink="false">0a76829c-7b56-47d7-9282-ba3dbf878e74</guid>
+            <pubDate>Sat, 05 Mar 2016 01:20:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
