@@ -1,14 +1,26 @@
-layout_spectrum: 0.6630824
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.06810036
-  lightness: 0.5860215
+  saturation: 0.4802867
   brandStrength: 0.1487455
+  lightness: 1
   brandColors:
     - '#301E1F'
     - '#F1EACF'
     - '#5C665A'
     - '#9A654B'
     - '#CF9A6E'
-  rhythmicContrast: 0.8082438
-typography_spectrum: 0.1397849
+  rhythmicContrast: 0.5519713
+typography_spectrum: 0.8422939
+layout_spectrum: 0.6630824
 name: Mike Shaffer
