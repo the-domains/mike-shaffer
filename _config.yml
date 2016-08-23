@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8422939
 color:
   saturation: 0.4802867
   brandStrength: 0.1487455
@@ -21,6 +22,5 @@ color:
     - '#9A654B'
     - '#CF9A6E'
   rhythmicContrast: 0.5519713
-typography_spectrum: 0.8422939
-layout_spectrum: 0.6630824
+layout_spectrum: 1
 name: Mike Shaffer
